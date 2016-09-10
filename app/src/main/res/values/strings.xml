@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Spore Keeper</string>
+    <string name="name_a">Edit Team name A</string>
+    <string name="name_b">Edit Team name B</string>
+    <string name="score_zero" translatable="false">0</string>
+    <string name="points3">+3 Points</string>
+    <string name="points2">+2 Points</string>
+    <string name="free_throw">Free throw</string>
+</resources>

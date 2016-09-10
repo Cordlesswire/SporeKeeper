@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="free_throw">Lance livre</string>
+    <string name="name_a">Edite o nome do time A</string>
+    <string name="name_b">Edite o nome do time A</string>
+    <string name="points2">+2 Pontos</string>
+    <string name="points3">+3 Pontos</string>
+</resources>
